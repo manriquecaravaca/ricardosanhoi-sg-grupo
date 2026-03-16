@@ -1,0 +1,26 @@
+.bienvenida-seccion {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f9f9f9; /* Un gris muy claro para resaltar */
+}
+
+.foto-bienvenida {
+    max-width: 200px; /* Ajusta este tamaño según prefieras */
+    height: auto;
+    border-radius: 50%; /* Esto la hace circular, quítalo si prefieres cuadrada */
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.bienvenida-seccion h1 {
+    font-family: 'Playfair Display', serif; /* Una fuente elegante para nombres */
+    color: #1a1a1a;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.subtitulo {
+    color: #666;
+    font-style: italic;
+    margin-top: 10px;
+}
